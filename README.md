@@ -10,7 +10,7 @@ This project generated the following outputs:
 
 - *Number of initial records in dataset:* There are **4,820,290** initial records in this dataset.
 - *Count of unique suppliers (exact match only):* Initially, there are **153,462** unique suppliers.
-- *Count of unique suppliers (fuzzy matching on recipient_name column):* Using a simple NLP pipeline reduces the number of unique suppliers to **149,978**.
+- *Count of unique suppliers (fuzzy matching on recipient_name column):* Using a simple NLP pipeline reduces the number of unique suppliers to **149,870**.
 
 
 Navigate to the Jupyter notebook to view full project code and outputs. 
