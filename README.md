@@ -2,7 +2,7 @@
 
 ## Description
 
-This project loads in data from the FY2016 spend dataset using Dask for quicker performance on larger datasets, saves the data to parquet format for easier repeat access, narrows down to columns of interest to answer a number of questions, and then uses a fuzzy matching strategy with a simple spaCy and NLTK natural language normalization pipeline to obtain true unique suppliers in this dataset. As a next step, additional fuzzy matches are ascertained using sentence embeddings with a cosine similarity rating threshold.
+This project loads in data from the FY2016 spend dataset using Dask for quicker performance on larger datasets, saves the data to parquet format for easier repeat access, narrows down to columns of interest to answer a number of questions, and then uses a fuzzy matching strategy with a simple spaCy and NLTK natural language normalization pipeline to obtain true unique suppliers in this dataset.
 
 ## Outputs
 
