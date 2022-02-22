@@ -21,7 +21,11 @@ In addition to the evaluation itself, which presents precision and recall measur
 
 ## Next Steps
 
-With a new code for true unique supplier, an analyst may return to the full dataset to attempt to answer questions such as the following:
+*(copied from notebook)* With a new code for true unique supplier, an analyst may return to the full dataset to attempt to answer questions such as the following with increased accuracy (these are just examples of the many questions that this data could be put to use for):
+
+- What kinds of suppliers have agreements with the greatest number of offices and what kinds of offices have agreements with the greatest number of suppliers?
+- Do these cluster in any sectors (using the sector indicator columns present in the original dataset)?
+- Do offices or divisions have multiple agreements with the same supplier under different supplier names? (With multiple year datasets) are offices or divisions recording suppliers as new recipient_names when there is actually a preexisting relationship with the same supplier under a preexisting name?
 
 
 
